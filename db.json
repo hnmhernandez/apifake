@@ -1,0 +1,100 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_854938-MLC45452026661_042021-O.webp",
+      "titulo": "Harina P.A.N",
+      "precio": 300000,
+      "fechaActualización": "2021-11-01"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.shopify.com/s/files/1/0393/4145/7575/products/B00001268_1_2048x2048.jpg?v=1621198644",
+      "titulo": "Agua sin gas",
+      "precio": 900,
+      "fechaActualización": "2021-11-02"
+    },
+    {
+      "id": 3,
+      "img": "https://www.fruna.cl/wp-content/uploads/2020/11/Crema-Fruna-90ml.jpg",
+      "titulo": "Helado Fruna",
+      "precio": 450,
+      "fechaActualización": "2021-11-03"
+    },
+    {
+      "id": 4,
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/443455-750-750?width=750&height=750&aspect=true",
+      "titulo": "Detergente",
+      "precio": 2800,
+      "fechaActualización": "2021-11-05"
+    },
+    {
+      "id": 5,
+      "img": "https://kiosclub.com/8630-large_default/galletas-oreo.jpg",
+      "titulo": "Galleta Oreo",
+      "precio": 500,
+      "fechaActualización": "2021-11-04"
+    },
+    {
+      "id": 7,
+      "img": "https://santaisabel.vtexassets.com/arquivos/ids/155803/Azucar-blanca-granulada-1-kg.jpg?v=637469287483700000",
+      "titulo": "Azucar",
+      "precio": 900,
+      "fechaActualización": null
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "img": "https://p.kindpng.com/picc/s/552-5528409_frutas-y-verduras-png-transparent-png.png",
+      "titulo": "Frutas y verduras"
+    },
+    {
+      "id": 2,
+      "img": "https://www.pngkit.com/png/detail/815-8155402_see-in-catalog-botellas-de-plastico-para-bebidas.png",
+      "titulo": "Bebestibles"
+    },
+    {
+      "id": 3,
+      "img": "http://s3.amazonaws.com/imagenes-sellers-mercado-ripley/2020/10/17132106/6852.png",
+      "titulo": "Abarrotes"
+    },
+    {
+      "id": 4,
+      "img": "https://media.smurfitkappa.com/co/-/m/images/page-hero-610-x-350/household-cleaning.png?rev=-1",
+      "titulo": "Limpieza"
+    },
+    {
+      "id": 5,
+      "img": "https://www.sweetsa.com.ar/wp-content/uploads/2020/10/1.png",
+      "titulo": "Golosinas"
+    },
+    {
+      "id": 6,
+      "img": "https://img.freepik.com/foto-gratis/canasta-roja-llena-comida-comestibles_8087-1458.jpg?size=626&ext=jpg",
+      "titulo": "Otros"
+    }
+  ],
+  "orderOptions": [
+    {
+      "titulo": "Menor precio",
+      "icon": "mdi-sort-numeric-ascending"
+    },
+    {
+      "titulo": "Mayor precio",
+      "icon": "mdi-sort-numeric-descending"
+    },
+    {
+      "titulo": "Más actual",
+      "icon": "mdi-sort-clock-ascending-outline"
+    },
+    {
+      "titulo": "Más antigüo",
+      "icon": "mdi-sort-clock-descending-outline"
+    },
+    {
+      "titulo": "Nombre",
+      "icon": "mdi-sort-alphabetical-ascending"
+    }
+  ]
+}
